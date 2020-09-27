@@ -1,2 +1,2 @@
-[Dukun Gudang (Software Engineering)](https://www.google.com "Dukun Gudang")
+[Dukun Gudang (Software Engineering)](https://dukungudang.herokuapp.com/ "Dukun Gudang")
 
